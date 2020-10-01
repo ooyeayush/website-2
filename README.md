@@ -23,7 +23,7 @@ npm install && npm run build && npm test
 
 Contributions welcome.
 
-# Troubleshooting with Hugo
+# Troubleshooting/Issue Solving with Hugo
 
 If you see the error:
 
